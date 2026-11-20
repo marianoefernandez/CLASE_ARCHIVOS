@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Santiago",
+        "apellido": "P\u00e9rez",
+        "legajo": 10001,
+        "carrera": "Ingenier\u00eda en Sistemas",
+        "anio": 1,
+        "nota_final": 8.5
+    },
+    {
+        "nombre": "Martina",
+        "apellido": "G\u00f3mez",
+        "legajo": 10002,
+        "carrera": "Administraci\u00f3n",
+        "anio": 2,
+        "nota_final": 9.0
+    },
+    {
+        "nombre": "Lucas",
+        "apellido": "Rodr\u00edguez",
+        "legajo": 10003,
+        "carrera": "Ingenier\u00eda en Sistemas",
+        "anio": 3,
+        "nota_final": 7.0
+    },
+    {
+        "nombre": "Valentina",
+        "apellido": "Fern\u00e1ndez",
+        "legajo": 10004,
+        "carrera": "Contador P\u00fablico",
+        "anio": 1,
+        "nota_final": 8.0
+    },
+    {
+        "nombre": "Mateo",
+        "apellido": "L\u00f3pez",
+        "legajo": 10005,
+        "carrera": "Dise\u00f1o Gr\u00e1fico",
+        "anio": 2,
+        "nota_final": 6.5
+    }
+]

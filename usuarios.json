@@ -1,0 +1,65 @@
+[
+    {
+        "nombre_usuario": "juan_perez",
+        "clave": "ff55ea1f43b01bbbdf0406ddfce11461c59eae5f3d03746211a9f1e63ec219f9",
+        "saldo": 50000.75,
+        "cbu": "0104332181960013389083",
+        "alias": "juan.perez",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "dni": 30123456,
+        "fecha_nacimiento": "14-03-1997",
+        "rol": "cliente"
+    },
+    {
+        "nombre_usuario": "maria_gomez",
+        "clave": "debbbc7b0008eab9faadb377a9a5fec8a18f21183c6848ad21ba8c9234cfdf45",
+        "saldo": 125300.5,
+        "cbu": "0863794026542351161559",
+        "alias": "maria.gomez",
+        "nombre": "Maria",
+        "apellido": "Gomez",
+        "dni": 28456789,
+        "fecha_nacimiento": "22-05-1994",
+        "rol": "cliente"
+    },
+    {
+        "nombre_usuario": "lucas_fernandez",
+        "clave": "f77d4e75ae70350a1f806febe26f1ff8b8ea3a0786a077fcafbe7e180d0f3dec",
+        "saldo": 8900.0,
+        "cbu": "0407816184959310341316",
+        "alias": "lucas.fernandez",
+        "nombre": "Lucas",
+        "apellido": "Fernandez",
+        "dni": 35789123,
+        "fecha_nacimiento": "09-01-2002",
+        "rol": "cliente"
+    },
+    {
+        "nombre_usuario": "ana_lopez",
+        "clave": "c4b38848354bf65ad789c6f8eaca5b7df8cc521456245f58a2a6cc76473561b7",
+        "saldo": 230000.0,
+        "cbu": "0475255341928327648350",
+        "alias": "ana.lopez",
+        "nombre": "Ana",
+        "apellido": "Lopez",
+        "dni": 40112233,
+        "fecha_nacimiento": "30-08-2005",
+        "rol": "cliente"
+    },
+    {
+        "nombre_usuario": "admin_root",
+        "clave": "0e89aeec58a274797fd430c35a04364e7d0d0646c3371412d80d641c3fdb08d9",
+        "rol": "administrador"
+    },
+    {
+        "nombre_usuario": "admin_sistema",
+        "clave": "0cb24e951e36b70ec514011c6b90d9f195c3add74a2ca0ef17f6ad505aef6ce5",
+        "rol": "administrador"
+    },
+    {
+        "nombre_usuario": "admin_utn",
+        "clave": "8d423deba40a20ddb96fe1d1d131b89da7b665b5e3997d2e81730b8af88b9908",
+        "rol": "administrador"
+    }
+]
